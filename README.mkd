@@ -1,0 +1,15 @@
+LoLi-JS
+=
+JS backend of [LoLi]("github.com/Z-Shang/LoLi"), used by [LoLi-WF]("github.com/Z-Shang/LoLi-WF")
+
+---
+Difference From LoLi
+=
+Because of the designs of JavaScript, the keyword in LoLi-JS uses `#` instead of `:` as their prefix.
+
+Also the number types is just `NUM` since there is NO WAY to determine the correct type of a number in JavaScript (which is really sad).
+
+---
+Licence
+=
+**GPLv3**
