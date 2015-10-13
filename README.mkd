@@ -1,6 +1,6 @@
 LoLi-JS
 =
-JS backend of [LoLi]("github.com/Z-Shang/LoLi"), used by [LoLi-WF]("github.com/Z-Shang/LoLi-WF")
+JS backend of [LoLi]("https://github.com/Z-Shang/LoLi"), used by [LoLi-WF]("https://github.com/Z-Shang/LoLi-WF")
 
 ---
 Difference From LoLi
