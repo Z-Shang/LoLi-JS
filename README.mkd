@@ -1,15 +1,17 @@
-LoLi-JS
-=
+#LoLi-JS
+===
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  
+
 JS backend of [LoLi]("https://github.com/Z-Shang/LoLi"), used by [LoLi-WF]("https://github.com/Z-Shang/LoLi-WF")
 
----
-Difference From LoLi
-=
+
+#Difference From LoLi
+===
 Because of the designs of JavaScript, the keyword in LoLi-JS uses `#` instead of `:` as their prefix.
 
 Also the number types is just `NUM` since there is NO WAY to determine the correct type of a number in JavaScript (which is really sad).
 
----
-Licence
-=
+
+#Licence
+===
 **GPLv3**
